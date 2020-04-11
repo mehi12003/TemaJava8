@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37f84792-1571-4b53-acb2-323fc48941eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Inharitance/Patrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inharitance/Patrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainDreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainDreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aggregation/composition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aggregation/composition.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\mihai\Desktop\ScoalaIT\GitHub\java-18\OOPConceptsDemo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7XAnO5iXYLkt4u8mhGtnCZtJI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Tema2/Tema2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Tema2.LibraryMain" />
+      <module name="OOPConceptsDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/Tema2/Tema2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f84792-1571-4b53-acb2-323fc48941eb" name="Default Changelist" comment="" />
+      <created>1578501465618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578501465618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1224" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579629244136">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1224" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1579629244136" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579628233707" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578503518057" />
+    <state x="-874" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1579630244203">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-874" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1579630244203" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578931374878" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579626948945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579626948945" />
+    <state x="270" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579627746522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="270" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579627746522" />
+    <state x="479" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579627750492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579627750492" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1579626974732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579626974732" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1579627516432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1579627516432" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578679056894" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579104892869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579104892869" />
+    <state x="65" y="59" key="new project wizard" timestamp="1579105187579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579105187579" />
+  </component>
+</project>

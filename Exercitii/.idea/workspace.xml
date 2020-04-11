@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ca37e4c-9174-4961-8b32-36a915b6f205" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tema_IO/Tema_IO.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Dreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Dreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Inharitance/Patrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Inharitance/Patrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/MainDreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/MainDreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/aggregation/composition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/aggregation/composition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_intro/src/main/java/Suma100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop_intro/src/main/java/Suma100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_intro/target/classes/Suma100.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oop_intro/target/classes/Suma100.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Xt1kfDqk097PrweUDLDZF75YCI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Teste" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumOfArrayNumbers">
+    <configuration name="Abstraction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="introtojava.Abstraction" />
+      <module name="Exercitii" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerOperations" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="introtojava.IntegerOperations" />
+      <module name="Exercitii" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introtojava.SumOfArrayNumbers" />
+      <module name="Exercitii" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introtojava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tenor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Teste.Tenor" />
+      <module name="Exercitii" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntegerOperations" />
+      <item itemvalue="Application.Abstraction" />
+      <item itemvalue="Application.Tenor" />
+      <item itemvalue="Application.SumOfArrayNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfArrayNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ca37e4c-9174-4961-8b32-36a915b6f205" name="Default Changelist" comment="" />
+      <created>1581850720433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581850720433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581876819616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581876819616" />
+    <state x="274" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581867759464" />
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581857501412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581857501412" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581876720507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581876720507" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581867754809" />
+    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581876901938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581876901938" />
+    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1581857504307" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581863826718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581863826718" />
+    <state width="1149" height="119" key="GridCell.Tab.0.bottom" timestamp="1581880423409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1149" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581880423409" />
+    <state width="1149" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581867796931" />
+    <state width="1149" height="119" key="GridCell.Tab.0.center" timestamp="1581880423408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1149" height="119" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581880423408" />
+    <state width="1149" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581867796931" />
+    <state width="1149" height="119" key="GridCell.Tab.0.left" timestamp="1581880423408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1149" height="119" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581880423408" />
+    <state width="1149" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581867796931" />
+    <state width="1149" height="119" key="GridCell.Tab.0.right" timestamp="1581880423408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1149" height="119" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581880423408" />
+    <state width="1149" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581867796931" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1581851020360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581851020360" />
+    <state x="374" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1585151400960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="202" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1585151400960" />
+    <state x="61" y="74" key="new project wizard" timestamp="1581880332517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="61" y="74" key="new project wizard/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1581880332517" />
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd4a8f10-ed70-4962-9e57-36d916127545" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Dreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Dreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Inharitance/Patrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/Inharitance/Patrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/MainDreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/MainDreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/aggregation/composition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPConceptsDemo/src/main/java/aggregation/composition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_intro/src/main/java/Suma100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop_intro/src/main/java/Suma100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_intro/target/classes/Suma100.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oop_intro/target/classes/Suma100.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1X4sOwC6ZR752RWqzM8PQpQWLTJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Issue.Navigation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="computer" />
+      <recent name="ro.sc1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConverterTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ro.sc1.Converter" />
+      <module name="Junit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd4a8f10-ed70-4962-9e57-36d916127545" name="Default Changelist" comment="" />
+      <created>1580316672181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580316672181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="22" key="#Test" timestamp="1580322165292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#Test/0.0.1366.728@0.0.1366.728" timestamp="1580322165292" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581184057017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581184057017" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1582304040009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582304040009" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580460850157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580460850157" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581096721238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581096721238" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1580492476825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580492476825" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1580319646327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1580319646327" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581183274641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581183274641" />
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580493551603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1580493551603" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ro/sc1/MetricDistanceTest.java</url>
+          <line>20</line>
+          <properties class="ro.sc1.MetricDistanceTest" method="transform_cm_to_inch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
